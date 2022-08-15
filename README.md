@@ -26,3 +26,5 @@ Pull requstler kabul edilir. Büyük değişiklikler için önce neyi değiştir
 #Licence 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Sample img](https://i.imgur.com/I7soo5W.png)
